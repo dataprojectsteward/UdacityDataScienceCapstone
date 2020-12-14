@@ -28,7 +28,6 @@ transcript.json - records for transactions, offers received, offers viewed, and 
 2. Starbucks_Capstone_Project.ipynb - Code in Jupyter Notebook
 3. Starbucks_Capstone_Project.html - HTML copy of code
 4. There is an additional visuals.py file that runs the necessary code, to run the Jupyter notebook.
-5. Starbucks_Capstone.PDF - Project documentation and results
 
 ## Results
 The main findings can be found here: https://lovelina-richter.medium.com/monday-coffee-b98c62606e2
