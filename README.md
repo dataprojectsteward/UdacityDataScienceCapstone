@@ -1,4 +1,4 @@
-# UdacityCapstone
+# Udacity Data Science Capstone
 
 ## Description
 
