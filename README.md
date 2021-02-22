@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a capstone requirement of Udacity Data Science NanoDegree. The project is about data exploration and building a model for Starbucks rewards app data.
+This project is a capstone requirement of Udacity Data Science NanoDegree. The project is about data exploration and building a model for Starbucks rewards app data, to determine what influence a customer to purchase or respond to an offer, based on customer’s transaction data, demographic profile, and offer type. 
 
 ## Table of contents
 
